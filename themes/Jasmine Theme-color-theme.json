@@ -1,0 +1,39 @@
+{
+	"name": "Jasmine Theme - Jasmine",
+	"type": "dark",
+	"colors": {
+		// lighter violet backdrop #282028
+		"editor.background": "#282028",
+		"tab.activeBackground": "#282028",
+		// darker violet backdrop #201c20
+		"panel.background": "#201c20",
+		"sideBar.background": "#201c20",
+		"activityBar.background": "#201c20",
+		"sideBarSectionHeader.background": "#201c20",
+		"titleBar.activeBackground": "#201c20",
+		"editorGroupHeader.tabsBackground": "#201c20",
+		"tab.inactiveBackground": "#201c20",
+		"tab.border": "#201c20",
+		// violet elements
+		"statusBar.background": "#513f75", // dark violet #513f75
+		"editor.selectionBackground": "#513f75",
+		"activityBarBadge.background": "#816baf" // mid violet #816baf
+	},
+	"tokenColors": [
+		{
+			"name": "Comment-like Gray",
+			"scope": ["comment"],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#777"
+			}
+		},
+		{
+			"name": "Light Violet",
+			"scope": ["string"],
+			"settings": {
+				"foreground": "#b19adf"
+			}
+		}
+	]
+}

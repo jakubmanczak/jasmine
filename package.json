@@ -1,0 +1,22 @@
+{
+	"name": "jasmine-theme",
+	"displayName": "Jasmine Theme",
+	"author": "jakubmanczak",
+	"description": "A collection of elegant themes.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Jasmine Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Jasmine Theme-color-theme.json"
+			}
+		]
+	}
+}
