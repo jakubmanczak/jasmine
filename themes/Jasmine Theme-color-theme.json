@@ -7,8 +7,9 @@
 		"tab.activeBackground": "#282028",
 		// darker violet backdrop #201c20
 		"panel.background": "#201c20",
-		"sideBar.background": "#201c20",
 		"activityBar.background": "#201c20",
+		"sideBar.background": "#201c20",
+		"sideBar.foreground": "#bbb",
 		"sideBarSectionHeader.background": "#201c20",
 		"titleBar.activeBackground": "#201c20",
 		"editorGroupHeader.tabsBackground": "#201c20",
@@ -17,9 +18,20 @@
 		// violet elements
 		"statusBar.background": "#513f75", // dark violet #513f75
 		"editor.selectionBackground": "#513f75",
-		"activityBarBadge.background": "#816baf" // mid violet #816baf
+		"activityBarBadge.background": "#816baf", // mid violet #816baf
+		// git decoration
+		"gitDecoration.modifiedResourceForeground": "#b19adf",
+		"gitDecoration.stageModifiedResourceForeground": "#b19adf",
+		"gitDecoration.conflictingResourceForeground": "#e2c08d"
 	},
 	"tokenColors": [
+		{
+			"name": "Invalid",
+			"scope": ["invalid"],
+			"settings": {
+				"foreground": "#ff5f7a"
+			}
+		},
 		{
 			"name": "Comment-like Gray",
 			"scope": ["comment"],
