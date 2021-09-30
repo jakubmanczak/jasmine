@@ -15,14 +15,24 @@
 		"editorGroupHeader.tabsBackground": "#201c20",
 		"tab.inactiveBackground": "#201c20",
 		"tab.border": "#201c20",
+		// selections
+		"list.activeSelectionBackground": "#513f75",
+		"focusBorder": "#816baf",
+		// buttons
+		"button.background": "#513f75",
 		// violet elements
 		"statusBar.background": "#513f75", // dark violet #513f75
 		"editor.selectionBackground": "#513f75",
 		"activityBarBadge.background": "#816baf", // mid violet #816baf
+		"progressBar.background": "#b19adf",
+		"textLink.foreground": "#816baf",
+		"textLink.activeForeground": "#b19adf",
 		// git decoration
 		"gitDecoration.modifiedResourceForeground": "#b19adf",
 		"gitDecoration.stageModifiedResourceForeground": "#b19adf",
-		"gitDecoration.conflictingResourceForeground": "#e2c08d"
+		"gitDecoration.conflictingResourceForeground": "#e2c08d",
+		// adjust gitlens blame to be same color as comment
+		"gitlens.trailingLineForegroundColor": "#777"
 	},
 	"tokenColors": [
 		{
