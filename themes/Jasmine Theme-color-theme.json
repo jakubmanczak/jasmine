@@ -43,7 +43,7 @@
 			}
 		},
 		{
-			"name": "Comment-like Gray",
+			"name": "Comment-like Gray Italic",
 			"scope": ["comment"],
 			"settings": {
 				"fontStyle": "italic",
@@ -52,9 +52,17 @@
 		},
 		{
 			"name": "Light Violet",
-			"scope": ["string"],
+			"scope": ["string", "markup.list"],
 			"settings": {
 				"foreground": "#b19adf"
+			}
+		},
+		{
+			"name": "Light Violet Bold Italic",
+			"scope": ["markup.heading"],
+			"settings": {
+				"foreground": "#b19adf",
+				"fontStyle": "italic bold"
 			}
 		}
 	]
