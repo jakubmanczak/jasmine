@@ -51,6 +51,19 @@
 			}
 		},
 		{
+			"name": "White",
+			"scope": [
+				"punctuation.terminator",
+				"punctuation.separator",
+				"keyword.operator.arithmetic",
+				"keyword.operator.assignment",
+				"keyword.operator.logical"
+			],
+			"settings": {
+				"foreground": "#ccc"
+			}
+		},
+		{
 			"name": "Light Violet",
 			"scope": ["string", "markup.list"],
 			"settings": {
@@ -63,6 +76,27 @@
 			"settings": {
 				"foreground": "#b19adf",
 				"fontStyle": "italic bold"
+			}
+		},
+		{
+			"name": "Blue-ish",
+			"scope": ["variable"],
+			"settings": {
+				"foreground": "#86c2f3"
+			}
+		},
+		{
+			"name": "Yellow-ish",
+			"scope": ["constant", "keyword"],
+			"settings": {
+				"foreground": "#e4d17d"
+			}
+		},
+		{
+			"name": "Aqua-ish",
+			"scope": ["meta"],
+			"settings": {
+				"foreground": "#82e2cd"
 			}
 		}
 	]
