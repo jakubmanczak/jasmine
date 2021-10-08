@@ -28,6 +28,7 @@
 		"textLink.foreground": "#816baf",
 		"textLink.activeForeground": "#b19adf",
 		// git decoration
+		"gitDecoration.addedResourceForeground": "#b19adf",
 		"gitDecoration.modifiedResourceForeground": "#b19adf",
 		"gitDecoration.stageModifiedResourceForeground": "#b19adf",
 		"gitDecoration.conflictingResourceForeground": "#e2c08d",
