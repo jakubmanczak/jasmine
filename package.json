@@ -13,9 +13,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Jasmine Theme",
+				"label": "Jasmine Theme - Dark Violet",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Jasmine Theme-color-theme.json"
+				"path": "./themes/dark-violet.json"
 			}
 		]
 	}
