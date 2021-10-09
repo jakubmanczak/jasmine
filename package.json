@@ -1,10 +1,20 @@
 {
 	"name": "jasmine-theme",
 	"displayName": "Jasmine Theme",
-	"author": "jakubmanczak",
+	"author": {
+		"name": "jakubmanczak",
+		"email": "jakub@manczak.net"
+	},
 	"description": "A collection of elegant themes.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jakubmanczak/jasmine-theme"
+	},
 	"icon": "img/jasmineIcon.png",
 	"version": "0.0.1",
+	"bugs": {
+		"url": "https://github.com/jakubmanczak/jasmine-theme/issues"
+	},
 	"engines": {
 		"vscode": "^1.60.0"
 	},
