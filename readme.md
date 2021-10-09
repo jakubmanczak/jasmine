@@ -1,5 +1,15 @@
-<img align="left" alt="minecraft-vgui logo" src="img/jasmineIcon.png?raw=true" />
+<img align="left" style="margin-right: 16px" alt="jasmine theme logo" src="https://github.com/jakubmanczak/jasmine-theme/blob/master/img/jasmineIcon.png?raw=true" />
 
-# jasmine-theme
+## jasmine-theme (IN DEVELOPMENT)
 
-This is a README file. It will be updated in the future, maybe.
+is a collection of mild-contrast, elegant Visual Studio Code themes.
+
+Current themes: Dark Violet.
+
+~jakubmanczak
+
+#
+
+## Dark Violet
+
+<img align="center" src="https://github.com/jakubmanczak/jasmine-theme/blob/master/img/promo/dark-violet.png?raw=true">
