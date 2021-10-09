@@ -3,6 +3,7 @@
 	"displayName": "Jasmine Theme",
 	"author": "jakubmanczak",
 	"description": "A collection of elegant themes.",
+	"icon": "img/jasmineIcon.png",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.60.0"
