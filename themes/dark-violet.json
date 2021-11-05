@@ -1,11 +1,10 @@
 {
 	"name": "Jasmine Theme - Dark Violet",
 	"type": "dark",
+	"$schema": "vscode://schemas/color-theme",
 	"colors": {
-		// lighter violet backdrop #282028
 		"editor.background": "#282028",
 		"tab.activeBackground": "#282028",
-		// darker violet backdrop #201c20
 		"panel.background": "#201c20",
 		"activityBar.background": "#201c20",
 		"sideBar.background": "#201c20",
@@ -15,26 +14,22 @@
 		"editorGroupHeader.tabsBackground": "#201c20",
 		"tab.inactiveBackground": "#201c20",
 		"tab.border": "#201c20",
-		// selections
 		"list.activeSelectionBackground": "#513f75",
 		"focusBorder": "#816baf",
-		// buttons
 		"button.background": "#513f75",
-		// violet elements
-		"statusBar.background": "#513f75", // dark violet #513f75
-		"statusBar.debuggingBackground": "#ba47d1",
+		"statusBar.background": "#513f75",
+		"statusBar.debuggingBackground": "#513f75",
+		"statusBar.debuggingBorder": "#fff",
 		"editor.selectionBackground": "#513f75",
-		"activityBarBadge.background": "#816baf", // mid violet #816baf
+		"activityBarBadge.background": "#816baf",
 		"progressBar.background": "#b19adf",
 		"textLink.foreground": "#816baf",
 		"textLink.activeForeground": "#b19adf",
-		// git decoration
 		"gitDecoration.addedResourceForeground": "#b19adf",
 		"gitDecoration.modifiedResourceForeground": "#b19adf",
 		"gitDecoration.stageModifiedResourceForeground": "#b19adf",
 		"gitDecoration.untrackedResourceForeground": "#b19adf",
 		"gitDecoration.conflictingResourceForeground": "#e2c08d",
-		// adjust gitlens blame to be same color as comment
 		"gitlens.trailingLineForegroundColor": "#777"
 	},
 	"tokenColors": [
