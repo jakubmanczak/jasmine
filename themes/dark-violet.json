@@ -31,6 +31,7 @@
 		"gitDecoration.addedResourceForeground": "#b19adf",
 		"gitDecoration.modifiedResourceForeground": "#b19adf",
 		"gitDecoration.stageModifiedResourceForeground": "#b19adf",
+		"gitDecoration.untrackedResourceForeground": "#b19adf",
 		"gitDecoration.conflictingResourceForeground": "#e2c08d",
 		// adjust gitlens blame to be same color as comment
 		"gitlens.trailingLineForegroundColor": "#777"
