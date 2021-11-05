@@ -22,6 +22,7 @@
 		"button.background": "#513f75",
 		// violet elements
 		"statusBar.background": "#513f75", // dark violet #513f75
+		"statusBar.debuggingBackground": "#ba47d1",
 		"editor.selectionBackground": "#513f75",
 		"activityBarBadge.background": "#816baf", // mid violet #816baf
 		"progressBar.background": "#b19adf",
@@ -53,52 +54,10 @@
 			}
 		},
 		{
-			"name": "White",
-			"scope": [
-				"punctuation.terminator",
-				"punctuation.separator",
-				"keyword.operator.arithmetic",
-				"keyword.operator.assignment",
-				"keyword.operator.logical"
-			],
-			"settings": {
-				"foreground": "#ccc"
-			}
-		},
-		{
 			"name": "Light Violet",
-			"scope": ["string", "markup.list"],
+			"scope": ["string"],
 			"settings": {
 				"foreground": "#b19adf"
-			}
-		},
-		{
-			"name": "Light Violet Bold Italic",
-			"scope": ["markup.heading"],
-			"settings": {
-				"foreground": "#b19adf",
-				"fontStyle": "italic bold"
-			}
-		},
-		{
-			"name": "Blue-ish",
-			"scope": ["variable"],
-			"settings": {
-				"foreground": "#86c2f3"
-			}
-		},
-		{
-			"name": "Yellow-ish",
-			"scope": ["constant", "keyword"],
-			"settings": {
-				"foreground": "#e4d17d"
-			}
-		},
-		{
-			"name": "Aqua-ish",
-			"scope": ["meta"],
-			"settings": {
-				"foreground": "#54a594"
 			}
 		}
 	]
