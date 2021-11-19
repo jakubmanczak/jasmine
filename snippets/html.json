@@ -1,0 +1,18 @@
+{
+	"jasmine - basic scaffolding": {
+		"prefix": "jbs",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html>",
+			"\t<head>",
+			"\t\t<meta charset=\"UTF-8\" />",
+			"\t\t<title>basic scaffolding</title>",
+			"\t</head>",
+			"\t<body>",
+			"\t\t$0",
+			"\t</body>",
+			"</html>"
+		],
+		"description": "Prepare a basic HTML file with title, utf-8 & doctype"
+	}
+}

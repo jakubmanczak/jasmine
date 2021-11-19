@@ -1,0 +1,14 @@
+{
+	"jasmine - basic scaffolding": {
+		"prefix": "jbs",
+		"body": [
+			"#include <iostream>",
+			"using namespace std;",
+			"",
+			"int main(){",
+			"\t$0",
+			"}"
+		],
+		"description": "Prepare a basic scaffolding with iostream, std namespace and int main()"
+	}
+}

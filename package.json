@@ -19,7 +19,8 @@
 		"vscode": "^1.60.0"
 	},
 	"categories": [
-		"Themes"
+		"Themes",
+		"Snippets"
 	],
 	"contributes": {
 		"themes": [
@@ -27,6 +28,16 @@
 				"label": "Jasmine Theme - Dark Violet",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark-violet.json"
+			}
+		],
+		"snippets": [
+			{
+				"language": "cpp",
+				"path": "./snippets/cpp.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html.json"
 			}
 		]
 	}
