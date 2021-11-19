@@ -1,15 +1,17 @@
-<img align="left" style="margin-right: 16px" alt="jasmine theme logo" src="https://github.com/jakubmanczak/jasmine-theme/blob/master/img/jasmineIcon.png?raw=true" />
+<img align="left" style="margin-right: 16px" alt="jasmine logo" src="https://github.com/jakubmanczak/jasmine/blob/master/img/jasmineIcon.png?raw=true" />
 
-## jasmine-theme (IN DEVELOPMENT)
+## jasmine (IN DEVELOPMENT)
 
-is a collection of mild-contrast, elegant Visual Studio Code themes.
-
-Current themes: Dark Violet.
+is an extension featuring mild-contrast, elegant Visual Studio Code themes as well as snippets.
 
 ~jakubmanczak
 
-#
+## Themes
 
-## Dark Violet
+### Dark Violet
 
-<img align="center" src="https://github.com/jakubmanczak/jasmine-theme/blob/master/img/promo/dark-violet.png?raw=true">
+<img align="center" src="https://github.com/jakubmanczak/jasmine/blob/master/img/promo/dark-violet.png?raw=true">
+
+## Snippets
+
+Basic scaffolding for C++ and HTML.
